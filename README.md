@@ -6,6 +6,8 @@ It is a deep-learning model created with Tensorflow.
 
 ![](https://github.com/marievernon/portfolio/blob/main/images/spectrograms.png)
 
+![](https://github.com/marievernon/portfolio/blob/main/images/confusion_matrix.png)
+
 [View code on Colab (EN)]()
 
 [Colab でコードを見る (日本語)]()
