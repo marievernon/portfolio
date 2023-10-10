@@ -12,9 +12,9 @@ Tensorflowでディープラーニングモデルを作成します。
 
 ![](https://github.com/marievernon/portfolio/blob/main/images/confusion_matrix.png)
 
-[View code on Colab (EN)]()
+[View code on Colab (EN)](https://colab.research.google.com/drive/1P5lCKN_8G_lVQ_4bLMV3pse89F1V3t9d?usp=sharing)
 
-[Colab でコードを見る (日本語)]()
+[Colab でコードを見る (日本語)](https://colab.research.google.com/drive/1Gk9qOt2GurdgMfGQ16cKhcAj5rKCgTH4?usp=sharing)
 
 
 ## Project 2: Overview
@@ -24,6 +24,8 @@ The model employs transfer-learning and is created with Tensorflow.
 これは、英文がネイティブ スピーカーによって書かれたものであるかどうかを識別する二項分類モデルです。
 TensorFlowを使用して、転移学習を用いたディープラーニングモデルを作成しました。
 
-[View code on Colab (EN)]()
+![](https://github.com/marievernon/portfolio/blob/main/images/native_bar.png)
 
-[Colab でコードを見る (日本語)]()
+[View code on Colab (EN)](https://colab.research.google.com/drive/1AdE02nrO87-DCSEqr1GAxBGLAx7ijUnG?usp=sharing)
+
+[Colab でコードを見る (日本語)](https://colab.research.google.com/drive/1qm_dUtl3TGh84xQWC-s-HLm5zVHXed2W?usp=sharing)
