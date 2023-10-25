@@ -24,7 +24,7 @@ The model employs transfer-learning and is created with Tensorflow.
 これは、英文がネイティブ スピーカーによって書かれたものであるかどうかを識別する二項分類モデルです。
 TensorFlowを使用して、転移学習を用いたディープラーニングモデルを作成しました。
 
-![](https://github.com/marievernon/portfolio/blob/main/images/native_bar.png)
+![](/images/native_bar.png)
 
 [View code on Colab (EN)](https://colab.research.google.com/drive/1AdE02nrO87-DCSEqr1GAxBGLAx7ijUnG?usp=sharing)
 
