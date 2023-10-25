@@ -8,9 +8,9 @@ It is a deep-learning model created with Tensorflow.
 音声はスペクトログラム画像に変換された後、画像分類モデルに入力されます。
 Tensorflowでディープラーニングモデルを作成します。
 
-![](https://github.com/marievernon/portfolio/blob/main/images/spectrograms.png)
+![](/images/spectrograms.png)
 
-![](https://github.com/marievernon/portfolio/blob/main/images/confusion_matrix.png)
+![](/images/confusion_matrix.png)
 
 [View code on Colab (EN)](https://colab.research.google.com/drive/1P5lCKN_8G_lVQ_4bLMV3pse89F1V3t9d?usp=sharing)
 
