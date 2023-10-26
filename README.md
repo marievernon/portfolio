@@ -1,4 +1,3 @@
-# **Marie Vernon Portfolio**
 ## Project 1: Overview
 This is a multiclass classification model that aims to identify the speaker from an audio file.
 The audio is converted to spectrogram images and then fed into an image-classification model.
